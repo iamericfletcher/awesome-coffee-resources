@@ -1,6 +1,15 @@
 # awesome-coffee-resources
 
-## Roasting YouTube Channels
+## Coffee Books
+- Espresso coffee : the science of quality
+    - Authors: Illy, Andrea.; Viani, Rinantonio
+    - Links:
+          - https://www.amazon.com/Espresso-Coffee-Science-Andrea-Illy/dp/0123703719
+          - https://shop.elsevier.com/books/espresso-coffee/illy/978-0-12-370371-2
+
+## Roasting 
+
+### YouTube Channels
 - [Mill City Roasters](https://www.youtube.com/@MillCityRoastersMN)
     - Video topics include
         - Roast alongs
