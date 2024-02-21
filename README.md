@@ -10,6 +10,11 @@
 ## Roasting 
 
 ### YouTube Channels
+- [Coffee Roasting with Roast Rebels](https://www.youtube.com/@CoffeeRoasting)
+    - Video topics include
+        - Tutorials
+        - Interviews
+        - Roasting machine reviews
 - [Mill City Roasters](https://www.youtube.com/@MillCityRoastersMN)
     - Video topics include
         - Roast alongs
